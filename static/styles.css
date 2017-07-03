@@ -21,7 +21,6 @@ h2 {
 .shitmoji {
 	display: inline-block;
 	text-align: left;
-	font-family: 'Source Code Pro', monospace;
 	white-space: pre;
 	font-size: 2em;
 }
